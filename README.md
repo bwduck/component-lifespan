@@ -2,10 +2,10 @@
 
 `ComponentLifespan` is a React Component that measures it's own lifespan, and subsequently the lifespan of it's children.  It is a simple-to-use component to help time certain things.
 
-[![version]](https://www.npmjs.com/package/component-lifespan)
-[![minified size]](https://www.npmjs.com/package/component-lifespan)
-[![minzipped size]](https://www.npmjs.com/package/component-lifespan)
-[![downloads]](https://www.npmjs.com/package/component-lifespan)
+[![version](https://img.shields.io/npm/v/component-lifespan.svg)](https://www.npmjs.com/package/component-lifespan)
+[![minified size](https://img.shields.io/bundlephobia/min/component-lifespan.svg)](https://www.npmjs.com/package/component-lifespan)
+[![minzipped size](https://img.shields.io/bundlephobia/minzip/component-lifespan.svg)](https://www.npmjs.com/package/component-lifespan)
+[![downloads](https://img.shields.io/npm/dt/component-lifespan.svg)](https://www.npmjs.com/package/component-lifespan)
 
 ## Install
 
