@@ -1,6 +1,6 @@
 {
   "name": "component-lifespan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/componentLifespan.min.js",
   "scripts": {
