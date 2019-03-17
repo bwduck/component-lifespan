@@ -12,9 +12,8 @@ describe('<ComponentLifespan />', () => {
     realDate = Date.now.bind(global.Date);
   });
 
-  afterEach(() => {
+  afterAll(() => {
     Date.now = realDate;
-    console.log(global.Date.now);
   });
 
   it('times how long a component is rendered', () => {
